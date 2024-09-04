@@ -2,7 +2,7 @@
 
 import { movieDB } from "@lib/movieDB";
 import { movieIdPageParams, searchInputParams } from "@lib/types";
-import { MovieRow } from "@components/MovieRow";
+import  MovieRow  from "@components/MovieRow";
 
 
 
